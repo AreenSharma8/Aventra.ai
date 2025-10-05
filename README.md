@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Aventra.ai — AI-Powered Interactive Story Generator
 
 **Aventra.ai** is an AI-driven web application that creates interactive, choose-your-own-adventure stories for children and creative writers. It combines AI text and image generation with a friendly, colorful UI so users can generate personalized, branching stories with illustrations, save progress, and share adventures.
@@ -184,3 +185,7 @@ This project is licensed under the MIT License.
 ## Vision
 
 To make storytelling more creative, interactive, and accessible by blending human imagination with AI-powered generation — suited for play, education, and creative writing.
+=======
+# Aventra.ai
+🪄 Aventra.ai is an AI-powered web app that creates interactive, choose-your-own-adventure stories. It combines AI text and image generation with a fun, child-friendly UI, letting users shape dynamic storylines, explore creativity, and enjoy personalized storytelling experiences.
+>>>>>>> 4c777ae13dbd1852355eb2af7836f1c9bd8afa64
